@@ -1,0 +1,35 @@
+.user_profile {
+    padding-bottom: 60px;
+}
+
+.user_info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.user_details {
+    width: 25%;
+    box-shadow: -2px 2px 11px 2px rgb(0 0 0 / 7%);
+    padding: 20px;
+}
+
+.user_details h3 {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.history {
+    width: 70%;
+    box-shadow: -2px 2px 11px 2px rgb(0 0 0 / 7%);
+    padding: 20px;
+}
+
+.user_pro {
+    padding-bottom: 7px;
+}
+
+.user_pro i {
+    font-size: 18px;
+    color: #222222;
+}
